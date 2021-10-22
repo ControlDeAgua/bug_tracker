@@ -2,7 +2,8 @@
 name: Problemas al usar "installer"
 about: Reportar algún problema con `ControlDeAgua/installer`, nuestra app de instalación.
 title: ''
-labels: 'Relacionado a "installer"'
+labels: 'Prioridad: Media, Relacionado a "installer"'
+assignees: ''
 
 ---
 
@@ -12,8 +13,8 @@ Describe de forma clara tu problema.
 **Cómo reproducir**
 Una lista de pasos para reproducir el problema:
 1. Ve a "..."
-2. Haz clic en '....'
-3. Desplaza hacia abajo en '....'
+2. Haz clic en "...."
+3. Desplaza hacia abajo en "...."
 4. Observa el error.
 
 **Comportamiento esperado**
